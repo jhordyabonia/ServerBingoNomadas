@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Server Bingo Nomadas</string>
+    <string name="action_account">Cuenta</string>
+    <string name="title_activity_sigin_up_chanel">SiginUpChanel</string>
+    <string name="title_activity_awards">Awards</string>
+
+</resources>
